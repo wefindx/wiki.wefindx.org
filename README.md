@@ -1,4 +1,5 @@
-# Who, What, Why?
+# Simple solutions to big problems
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Our modern world got too complex to understand it. We exist to organise knowledge as steps, so that intellectually curious are free to co-create the future all of us want and need.  
+
 
