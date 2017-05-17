@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Why](why.md)
 * [How](how.md)
-* What
+* [What](what.md)
 * Partners
 * R&D
 
