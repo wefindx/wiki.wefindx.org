@@ -4,6 +4,6 @@
 * [Why](why.md)
 * [How](how.md)
 * [What](what.md)
-* Partners
+* [Partners](partners.md)
 * R&D
 
