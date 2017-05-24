@@ -1,6 +1,6 @@
-# How we solve problems
+# Solution
 
-We invented a new methodology for systematic problem solving, risk assessment and investment sharing.
+Our solution is a collaboration mechanism that makes it easy to get involved in constructive discussions about global goals, ideas and open projects. 
 
-With our web platform The Infinity Project, you can solve any problems on your own or as a group, estimate risk and budget needed to bring a solution to life and share resources from person to person.
+Our solution is accessible through a web platform. 
 
