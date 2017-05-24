@@ -1,9 +1,9 @@
 # Summary
 
-* [Introduction](README.md)
-* [Why](why.md)
-* [How](how.md)
-* [What](what.md)
+* [Landing Page](README.md)
+* [Mission](why.md)
+* [Solution](how.md)
 * [Partners](partners.md)
-* [R&D](randd.md)
+* [About](what.md)
+* [FAQ](randd.md)
 

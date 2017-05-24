@@ -1,6 +1,18 @@
-# Let Everything Exist
+# Mission
 
-Our mission is to solve world’s problems and free people to do what they love.
+We're committed to solve problems. We strive for the world of abundance where it's easy for everyone to use their abilities to create value and get a fair monetary contribution for time they spend solving our shared problems. 
 
-Our vision is to create open and friendly AI that shares our values and seeks our shared goals. On a practical level, it serves as a public work system where everyone can do meaningful work and create good for all.
+Our mission comes true as we pursue our goals. We strive to:
+
+* Ensure the safe development of AI
+* Achieve diversity in a dialogue about global goals
+* Increase the spread of innovative ideas globally
+
+
+
+
+
+
+
+
 
