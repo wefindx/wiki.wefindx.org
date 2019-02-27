@@ -1,8 +1,8 @@
-WeFindX Foundation welcomes contributions from researchers as part of WeFindX Fellowship programme starting in Q2 2019. 
+WeFindX Foundation welcomes contributions from researchers as part of WeFindX Fellowship programme starting in Q2 2019.
 
 ### Purpose
 
-The programme exists to foster lasting inter-disciplinary and multi-cultural relationships and speed up the knowledge co-creation between researchers.
+The programme exists to foster lasting inter-disciplinary and multi-cultural relationships and knowledge co-creation between researchers.
 
 ### Research Themes
 
@@ -35,7 +35,7 @@ During the Fellowship, the fellow is expected to create an independent project u
 
 ### Contact
 
-Get in touch at [ideas@wefindx.com](mailto:ideas@wefindx.com) 
+Get in touch at [ideas@wefindx.com](mailto:ideas@wefindx.com)
 
 ### 
 
