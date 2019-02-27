@@ -18,7 +18,7 @@ A `wish` can be falsified by any single participant, just like in science and ma
 
 ## HOW DO WE SEEK OUR MISSION
 
-We are constructing a language for collective goal setting and pursuit, and building software implementations to help apply that language, such as the Infinity Project \( [https://infty.xyz](https://infty.xyz) \) - economic and innovation forum and platform.
+We are constructing a language for collective goal setting and pursuit, and building software implementations to help apply that language, such as the Infinity Project \( [https://inf.li](https://inf.li) \) - economic and innovation forum and platform.
 
 ## BE PART OF THE COLLECTIVE
 
