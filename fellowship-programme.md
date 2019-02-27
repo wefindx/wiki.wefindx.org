@@ -20,7 +20,7 @@ The programme exists to foster lasting inter-disciplinary and multi-cultural rel
 * **Multi**-**cultural**. The languages supported are English, Chinese, Russian, Japanese, German and Lithuanian.
 * **Inter**-**disciplinary**. Researchers and practitioners from disciplines of computer science, economics, finance, law, anthropology, to name a few, are encouraged to apply.
 
-No remuneration is offered for fellows in this cycle of fellowship.
+No remuneration is offered in this cycle of fellowship.
 
 ### Duration
 
