@@ -31,7 +31,7 @@ The Fellowship is offered from the 1st of April, 2019 and runs for 3 to 6 months
 
 ### Expectations
 
-During the Fellowship, the fellow is expected to create an independent project under one or more research themes and contribute to daily research publications.
+During the Fellowship, the researcher is expected to create an independent project under one or more research themes and contribute to daily research publications.
 
 ### Contact
 
