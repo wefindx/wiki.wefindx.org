@@ -6,4 +6,5 @@
 * [Terms of Members](terms-of-members.md)
 * [Fellowship Programme](fellowship-programme.md)
 * [Open Source Contributor Programme](open-source-contributor-programme.md)
+* [information engineering](information-engineering.md)
 
