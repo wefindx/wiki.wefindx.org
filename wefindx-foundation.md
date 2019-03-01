@@ -31,5 +31,5 @@ We deeply refine the ideas and learn from/educate the participants that falsify 
 
 We are part of the global **Infinity Family **\(a group of organisations and individuals with a shared mission - to create the world, where every _true\*_ wish comes true\).
 
-To learn more about the Infinity Family: [https://infinity.family](https://mindey1.gitbooks.io/infinity-family/content/).
+To learn more about the Infinity Family: [https://infinity.family](https://infinity.family).
 
