@@ -1,5 +1,7 @@
 # Levels of AI-Human Integration
 
+_**Epistemic Status:**_ common knowledge, just not to me.
+
 When talking about human-AI integration, it may be convenient to use the analogy of the integration of computer systems, whereby the integration happens at different levels of communication \(I/O\) protocols, where there is physical layer at the bottom, and applications layer at the top.
 
 Human minds can be thought of as knowledge hypergraphs, that interpret certain signals \(external and imagined\) as positive or negative stimuli \(pain and reward\), which reflects the trajectory of approach towards the internalized goals.
@@ -24,4 +26,8 @@ Based on this physical level, modes of integrative communication can be devised.
 3. **level** \(one a mutual ontological mapping and reward signals learning, with respect to personal goals of each one, and an exchange of complex signals with respect to negotiated common goals\). A translation AI is employed \(or a part of resources is dedicated\) to learn the two or more minds, and provide a real-time exchange mapping
 
 In the level of P6 and I3, we may see the emergence of a single new integrated mind. It might be, that this can only happen, when the goals with respect to the kind of life one wants to lead, are sufficiently similar, that the common goals can be negotiated, and be made top priority. If that is not the case, we may see the split-personality disorder type of "integration," which may be the current state of the world due to lack of capabilities in some of the layers.
+
+## Further Work
+
+Explore, how do the levels of AI-Human integration inform the rise of collective consciousness from the perspective of [integrated information theory](https://en.wikipedia.org/wiki/Integrated_information_theory).
 
