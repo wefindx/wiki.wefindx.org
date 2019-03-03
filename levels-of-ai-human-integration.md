@@ -2,7 +2,7 @@
 
 _**Epistemic Status:**_ common knowledge, just not to me.
 
-The below are suggested** levels of integration, when viewed from physical and ontological dimension**, which can be used to combine an integration matrix. The levels can be viewed in as a kind of "[shock levels](http://sl4.org/shocklevels.html)" of integration.
+The below are suggested** levels of integration, when viewed from physical and ontological dimensions**, which can be used to combine an integration matrix, describing an overall level of integration. The levels can be viewed in as a kind of "[shock levels](http://sl4.org/shocklevels.html)" of integration.
 
 ## Introduction
 
