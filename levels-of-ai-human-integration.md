@@ -12,7 +12,7 @@ Human minds can be thought of as knowledge hypergraphs, that interpret certain s
 
 An ultimate example of integration can be thought of as the sense of single self, which is born when the communication is continual and complementary \(for example, left brain hemisphere and right brain hemisphere continually exchange information via [corpus callosum](https://en.wikipedia.org/wiki/Corpus_callosum), and a human in most cases feels like a single person, though, the rare [dissociative personality disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder) does exist, even in a relatively well-connected minds\).
 
-### _**P**hysical_:
+### _**P**hysical Levels_:
 
 1. **level**: \(symbiotic-level\) when systems happen to live together, only exchanging the products of their metabolism. For example, [Toxoplasma Gondii](https://en.wikipedia.org/wiki/Toxoplasma_gondii) may be said to be integrated with a house cats \(or a human\), as it affects their behavior.
 2. **level**: \(actuatory-level\) when systems interact through exchange of physical force to perform the I/O. \(e.g., typing\).
@@ -23,7 +23,7 @@ An ultimate example of integration can be thought of as the sense of single self
 
 Based on this physical level, modes of integrative communication can be devised. For example, we may not be very satisfied with seeing raw states of computer bits and electric charges, or raw data objects, but instead, may want o see the representation of those states in form of objects that our visual cortex is trained to recognize \(such as pictures, texts\). Vice versa, when viewing another person's mind, we may not want to view the raw representation of the scans, but instead, have them translated into imagery, and ultimately, equivalent sensory perceptions of another system. If the system is non-human, the perceptions may be desired to be translated into comparable emotional triggers about gain/loss with respect to goals of comparable personal significance to the systems.
 
-### _Ontological:_
+### _Ontological Levels:_
 
 1. **level** \(emotion-only\) a mind produces an emotion that represents the needs, and receives input back as as direct emotion triggers to comprehend whether or not the action they took is leading towards desired outcomes. For example, the relation of actions to economical indicators may be inferred from an economic model, and a an AI may have a direct trigger to the emotions to provide feedback to the mind to associate the collective risk landscape with personal emotions. \(e.g., feel the physical pain because of prediction of long-term climate change\).
 2. **level** \(concept-only\) a mind produces a program based on symbols, which then is parsed by another system in form of code review. The systems collectively give feedback about the code to be executed, and execute when reach some agreement.
