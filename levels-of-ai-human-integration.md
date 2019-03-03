@@ -2,13 +2,15 @@
 
 _**Epistemic Status:**_ common knowledge, just not to me.
 
+The below are suggested** levels of integration, when viewed from physical and ontological dimension**, which can be used to combine an integration matrix. The levels can be viewed in as a kind of "shock levels" of integration.
+
+## Introduction
+
 When talking about human-AI integration, it may be convenient to use the analogy of the integration of computer systems, whereby the integration happens at different levels of communication \(I/O\) protocols, where there is physical layer at the bottom, and applications layer at the top.
 
 Human minds can be thought of as knowledge hypergraphs, that interpret certain signals \(external and imagined\) as positive or negative stimuli \(pain and reward\), which reflects the trajectory of approach towards the internalized goals.
 
 An ultimate example of integration can be thought of as the sense of single self, which is born when the communication is continual and complementary \(for example, left brain hemisphere and right brain hemisphere continually exchange information via [corpus callosum](https://en.wikipedia.org/wiki/Corpus_callosum), and a human in most cases feels like a single person, though, the rare [dissociative personality disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder) does exist, even in a relatively well-connected minds\).
-
-The below are suggested** levels of integration, when viewed from physical and ontological dimension.**
 
 ### _**P**hysical_:
 
