@@ -21,7 +21,7 @@ Please, read our report.
 We work under _vetocracy_, - goals and ideas can be falsified by any single participant, just like in science and mathematics, where a rule can be falsified by a single observation that does not match theory. Pragmatic implications we follow in such cases:
 
 1. Idea was misunderstood,
-2. Idea as not desired truly.
+2. Idea was not desired truly.
 
 In such cases:
 
