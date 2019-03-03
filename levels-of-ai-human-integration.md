@@ -29,7 +29,7 @@ Based on this physical level, modes of integrative communication can be devised.
 2. **level** \(concept-only\) a mind produces a program based on symbols, which then is parsed by another system in form of code review. The systems collectively give feedback about the code to be executed, and execute when reach some agreement.
 3. **level** \(one a mutual ontological mapping and reward signals learning, with respect to personal goals of each one, and an exchange of complex signals with respect to negotiated common goals\). A translation AI is employed \(or a part of resources is dedicated\) to learn the two or more minds, and provide a real-time exchange mapping
 
-In the level of **P6 and O3**, we may see the emergence of a single new integrated mind. It might be, that this can only happen, when the goals with respect to the kind of life one wants to lead, are sufficiently similar, that the common goals can be negotiated, and be made a top priority. If that is not the case, we may see the "dissociative-personality disorder" type of "integration," which may be the current state of the world due to lack of capabilities in some of the layers.
+In the level of **P6 and O3**, we may see the emergence of a single new integrated mind. It might be, that this can only happen, when the goals with respect to the kind of life one wants to lead, are sufficiently similar, that the common goals can be negotiated, and be made a top priority. If that is not the case, we may see the "dissociative-personality disorder" type of "integration," which may be the current state of the world due to lack of capabilities at some of the layers.
 
 ## Further Work
 
