@@ -10,7 +10,7 @@ The _**infinity pattern**_ has been described in the videos [\[1\]](https://wefi
 
 How do we "infinity" while while the software \([\[5\]](https://wefindx.org/static/media/inf.mp4),[\[6\]](http://github.com/infamily)\) for it is not quite ready?
 
-# WeFindX v1 Method
+# v1 Method \( currently used at WeFindX \)
 
 At WeFindX, we use the following software in combination, to do management on different levels of infintiy hierarchy:
 
@@ -24,8 +24,6 @@ At WeFindX, we use the following software in combination, to do management on di
 5. **steps**: [Gitter](https://gitter.im/wefindx) \(running processes, and we use [infinity-family/project-&lt;name&gt;](https://gitter.im/infinity-family/) namespace for all projects that are derived from halfbakery\)
 6. **tasks**: Trello \( \)
 7. **works**: Upwork to pay, PGP, ethereum to create permanent proofs of work.
-
-
 
 
 
