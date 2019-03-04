@@ -30,5 +30,7 @@ At WeFindX, we use the following software in combination, to do management on di
 6. **tasks**: [Trello](https://trello.com/wefindx) \( \)
 7. **works**: [Upwork](https://upwork.com) to pay, PGP, ethereum to create permanent proofs of work.
 
+Extra tools we use:
 
+?feedly.com
 
