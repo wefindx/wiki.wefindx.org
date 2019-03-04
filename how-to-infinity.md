@@ -1,4 +1,4 @@
-# [https://upwork.com](https://upwork.com)How to Infinity?
+# How to Infinity?
 
 This document is for versioning of _how to infinity_, using existing software.
 
@@ -28,7 +28,7 @@ At WeFindX, we use the following software in combination, to do management on di
    3. [Gitter](https://gitter.im/wefindx) \(running processes, and we use [infinity-family/project-&lt;name&gt;](https://gitter.im/infinity-family/) namespace for all projects that are derived from halfbakery\)
    4. [Gitbook](https://wiki.wefindx.org) \(for wiki\)
 6. **tasks**: [Trello](https://trello.com/wefindx) \( \)
-7. **works**: Upwork to pay, PGP, ethereum to create permanent proofs of work.
+7. **works**: [Upwork](https://upwork.com) to pay, PGP, ethereum to create permanent proofs of work.
 
 
 
