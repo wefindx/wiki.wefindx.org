@@ -32,5 +32,8 @@ At WeFindX, we use the following software in combination, to do management on di
 
 Extra tools we use:
 
-?feedly.com
+* Reading feeds ?feedly.com
+* Internal wiki: ?syncthing.org
+
+
 
