@@ -23,7 +23,7 @@ At WeFindX, we use the following software in combination, to do management on di
    3. ? \( for accounting \)
 5. **steps**:
    1. [Telegram](https://t.me/wefindx) \(for general contacting\)
-   2. [Ghost](https://ghost.org) \(for blogging\)
+   2. [Ghost](https://ghost.org) and WordPress \(for blogging\)
    3. [Gitter](https://gitter.im/wefindx) \(running processes, and we use [infinity-family/project-&lt;name&gt;](https://gitter.im/infinity-family/) namespace for all projects that are derived from halfbakery\)
    4. [Gitbook](https://wiki.wefindx.org) \(for wiki\)
 6. **tasks**: Trello \( \)
