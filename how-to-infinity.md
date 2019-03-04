@@ -18,9 +18,10 @@ At WeFindX, we use the following software in combination, to do management on di
 2. **goals**: [Infinity](https://inf.li) \( \)
 3. **ideas**: [Halfbakery](http://www.halfbakery.com) \( \)
 4. **plans**:
-   1. [Dynalist](https://dynalist.io) \(a list per project, example: [project-synsets](https://dynalist.io/d/_OLqWbcscbx5xGq2SpOTiu3d)\)
-   2. [App Annie](https://www.appannie.com)? \(for tracking of valuation\)
-   3. ? \( for accounting \)
+   1. [Ireland](https://gov.ie) \(country, for legal entity, WeFindX Foundation CLG\)
+   2. [Dynalist](https://dynalist.io) \(a list per project, example: [project-synsets](https://dynalist.io/d/_OLqWbcscbx5xGq2SpOTiu3d), project-infinity\)
+   3. [App Annie](https://www.appannie.com)? \(for tracking of valuation\)
+   4. ? \( for accounting \)
 5. **steps**:
    1. [Telegram](https://t.me/wefindx) \(for general contacting\)
    2. [Ghost](https://ghost.org) and [WordPress](https://wordpress.org) \(for blogging\)
