@@ -19,7 +19,7 @@ At WeFindX, we use the following software in combination, to do management on di
 3. **ideas**: [Halfbakery](http://www.halfbakery.com) \( \)
 4. **plans**:
    1. [Ireland](https://gov.ie) \(country, for legal entity, WeFindX Foundation CLG\)
-   2. [Dynalist](https://dynalist.io) \(a list per project, example: [project-synsets](https://dynalist.io/d/_OLqWbcscbx5xGq2SpOTiu3d), project-infinity\)
+   2. [Dynalist](https://dynalist.io) \(a list per project, example: [project-synsets](https://dynalist.io/d/_OLqWbcscbx5xGq2SpOTiu3d), [project-infinity](https://dynalist.io/d/sLsVzRF-uZRoszEe-qd2qANB)\)
    3. [App Annie](https://www.appannie.com)? \(for tracking of valuation\)
    4. ? \( for accounting \)
 5. **steps**:
