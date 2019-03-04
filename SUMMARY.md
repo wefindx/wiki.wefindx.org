@@ -9,4 +9,5 @@
 * [Information Engineering](information-engineering.md)
 * [Levels of AI-Human Integration](levels-of-ai-human-integration.md)
 * [WeFindX Database Download](wefindx-database-download.md)
+* [How to Infinity?](how-to-infinity.md)
 
