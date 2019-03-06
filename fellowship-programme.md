@@ -33,6 +33,10 @@ The Fellowship is offered from the 1st of April, 2019 and runs for 3 to 6 months
 
 During the Fellowship, the researcher is expected to create an independent project under one or more research themes and contribute to daily research publications.
 
+### Application
+
+Please use the application form provided [here](https://docs.google.com/forms/d/e/1FAIpQLScLBGDbZGcKFVeaLJQKvwWjhuUQvN3V35jlCfMmagtAnV7EGQ/viewform).
+
 ### Contact
 
 Get in touch at [ideas@wefindx.com](mailto:ideas@wefindx.com)
