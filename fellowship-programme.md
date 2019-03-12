@@ -6,13 +6,25 @@ The programme exists to foster lasting inter-disciplinary and multi-cultural rel
 
 ### Research Themes
 
-1. Self-explanatory artificial intelligence
+**1.Public Intelligence**
 
-2. Universally accessible and secure finance systems
+Self-explanatory artificial intelligence. 
 
-3. Inclusive cooperation models
+Topics include AGI, public data, data standards, and more.
 
-4. Responsible personal sovereignty
+**2.Cooperation**
+
+Universally accessible and secure finance systems, and inclusive cooperation models.
+
+Topics include company law, employment law, social security, universal basic income, social impact investment, blockchain, e-government, and more.
+
+**3.Humanity**
+
+Responsible personal sovereignty. 
+
+Topics include data rights, digital identity, cryptography, and more.
+
+
 
 ### Principles
 
