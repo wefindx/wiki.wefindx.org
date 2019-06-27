@@ -6,10 +6,10 @@ Become a fellow at [t.me/wefindxfellows](https://t.me/wefindxfellows) to choose 
 
 | Thinker Fellow | Doer Fellow |
 | :--- | :--- |
-| Research: Metaformat \([1](https://book.mindey.com/metaformat/0001-metaform-philosophy/0001-metaform-philosophy.html), [2](https://github.com/wefindx/metaform)\) | Development: [Metadrive](https://github.com/wefindx/metadrive) |
-| Research: Infinity models \([3](https://github.com/wefindx/_#infinity-types), [4](https://www.youtube.com/watch?v=e3wpZ7yWUNg&t=3s)\) | Development: Infinity Fintank |
+| Research: Metaformat \([1](https://book.mindey.com/metaformat/0001-metaform-philosophy/0001-metaform-philosophy.html), [2](https://github.com/wefindx/metaform)\) | Development: Metadrive \([6](https://github.com/wefindx/metadrive)\) |
+| Research: Infinity models \([3](https://github.com/wefindx/_#infinity-types), [4](https://www.youtube.com/watch?v=e3wpZ7yWUNg&t=3s)\) | Development: Infinity Fintank \(7\) |
 | Research: Global goals classification | Development: Global goals framework |
-| Research: Foundational questions | Development: Public intelligence model |
+| Research: Foundational questions \([5](https://github.com/wefindx/_#superclasses-of-thing)\) | Development: Public intelligence model |
 
 
 
