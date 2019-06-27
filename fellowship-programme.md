@@ -36,15 +36,19 @@ No remuneration is offered in this cycle of fellowship.
 
 The Fellowship is ongoing.
 
+### Resources
+
+View research and development resources here: [https://wiki.wefindx.org/wefindx-fellows.html](https://wiki.wefindx.org/wefindx-fellows.html)
+
 ### Application
 
-Apply informally through [WeFindX Fellows](http://t.me/wefindxfellows) and [t.me/wefindxfellows](https://t.me/wefindxfellows).
+Apply informally through [t.me/wefindxfellows](https://t.me/wefindxfellows).
 
 ### Contact
 
 [ideas@wefindx.com](mailto:ideas@wefindx.com)
 
-### 
+
 
 
 
