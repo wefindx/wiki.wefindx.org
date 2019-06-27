@@ -11,4 +11,5 @@
 * [WeFindX Database Download](wefindx-database-download.md)
 * [How to Infinity?](how-to-infinity.md)
 * [Research Reader and Subscriptions](research-reader.md)
+* [WeFindX Fellows](wefindx-fellows.md)
 

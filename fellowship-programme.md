@@ -8,7 +8,7 @@ The programme exists to foster lasting inter-disciplinary and multi-cultural rel
 
 **1.Public Intelligence**
 
-Self-explanatory artificial intelligence. 
+Self-explanatory artificial intelligence.
 
 Topics include AGI, public data, data standards, and more.
 
@@ -20,11 +20,9 @@ Topics include company law, employment law, social security, universal basic inc
 
 **3.Humanity**
 
-Responsible personal sovereignty. 
+Responsible personal sovereignty.
 
 Topics include data rights, digital identity, cryptography, and more.
-
-
 
 ### Principles
 
@@ -36,10 +34,7 @@ No remuneration is offered in this cycle of fellowship.
 
 ### Duration
 
-The Fellowship is offered from the 1st of April, 2019 and runs for 3 to 6 months.
-
-* Fellowship Taster \(3 months\)
-* Fellowship \(6 months\)
+The Fellowship is ongoing.
 
 ### Expectations
 
