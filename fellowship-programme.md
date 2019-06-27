@@ -38,7 +38,7 @@ The Fellowship is ongoing.
 
 ### Application
 
-Apply informally through [t.me/wefindxfellows](https://t.me/wefindxfellows).
+Apply informally through [WeFindX Fellows](http://t.me/wefindxfellows) and [t.me/wefindxfellows](https://t.me/wefindxfellows).
 
 ### Contact
 
