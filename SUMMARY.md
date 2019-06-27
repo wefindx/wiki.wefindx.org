@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [WeFindX Fellows](wefindx-fellows.md)
 * [Infinity Family](infinity-family.md)
 * [WeFindX Foundation](wefindx-foundation.md)
 * [Terms of Members](terms-of-members.md)
@@ -10,6 +11,5 @@
 * [Levels of AI-Human Integration](levels-of-ai-human-integration.md)
 * [WeFindX Database Download](wefindx-database-download.md)
 * [How to Infinity?](how-to-infinity.md)
-* [Research Reader and Subscriptions](research-reader.md)
 * [WeFindX Fellows](wefindx-fellows.md)
 
