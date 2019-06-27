@@ -1,4 +1,4 @@
-WeFindX Foundation welcomes contributions from researchers as part of WeFindX Fellowship programme starting in Q2 2019.
+WeFindX Foundation welcomes contributions from researchers as part of WeFindX Fellowship programme.
 
 ### Purpose
 
@@ -36,17 +36,13 @@ No remuneration is offered in this cycle of fellowship.
 
 The Fellowship is ongoing.
 
-### Expectations
-
-During the Fellowship, the researcher is expected to create an independent project under one or more research themes and contribute to daily research publications.
-
 ### Application
 
-Please use the application form provided [here](https://docs.google.com/forms/d/e/1FAIpQLScLBGDbZGcKFVeaLJQKvwWjhuUQvN3V35jlCfMmagtAnV7EGQ/viewform).
+Apply informally through [t.me/wefindxfellows](https://t.me/wefindxfellows).
 
 ### Contact
 
-Get in touch at [ideas@wefindx.com](mailto:ideas@wefindx.com)
+[ideas@wefindx.com](mailto:ideas@wefindx.com)
 
 ### 
 
