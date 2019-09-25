@@ -1,6 +1,6 @@
 # Introduction
 
-We are a not-for-profit organization [registered](https://wefindx.com/) in Ireland, dedicated to solving world's equation `f(x)=y`, where `f` - is the world, `y` - is our collective dream, and `x` is our actions to realize it. We are convinced, that the equation model is so general that it will transcend even a superintelligence, and therefore, it is an imperative for humanity to collectively define the right side of the equation `f(x)=y`.
+We are a not-for-profit organization \([WeFindX Foundation CLG](https://wefindx.com/)\) registered in Ireland, dedicated to solving world's equation `f(x)=y`, where `f` - is the world, `y` - is our collective dream, and `x` is our actions to realize it. We are convinced, that the equation model is so general that it will transcend even a superintelligence, and therefore, it is an imperative for humanity to collectively define the right side of the equation `f(x)=y`.
 
 We fund systems to help advance this mission.
 
