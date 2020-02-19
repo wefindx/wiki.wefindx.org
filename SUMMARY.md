@@ -1,15 +1,15 @@
 # Summary
 
-* [Introduction](README.md)
-* [WeFindX Fellows](wefindx-fellows.md)
-* [Infinity Family](infinity-family.md)
-* [WeFindX Foundation](wefindx-foundation.md)
-* [Terms of Members](terms-of-members.md)
-* [Fellowship Programme](fellowship-programme.md)
-* [Open Source Contributor Programme](open-source-contributor-programme.md)
-* [Information Engineering](information-engineering.md)
-* [Levels of AI-Human Integration](levels-of-ai-human-integration.md)
-* [WeFindX Database Download](wefindx-database-download.md)
-* [How to Infinity?](how-to-infinity.md)
-* [WeFindX Fellows](wefindx-fellows.md)
-
+* [WeFindX International](WEFINDX_INTL/wefindx-international.md)
+  * [Infinity Family](WEFINDX_INTL/infinity-family.md)
+  * [How to Infinity?](WEFINDX_INTL/how-to-infinity.md)
+  * [Infinity DB Download](WEFINDX_INTL/wefindx-database-download.md)
+  <!-- * [Research Reader ()](research-reader.md) -->
+* [CHAPTERS](organizations.md)
+  * [WeFindX Foundation CLG (Ireland)](WEFINDX_IE/wefindx-foundation.md)
+    * [Fellowship Programme](WEFINDX_IE/fellowship-programme.md)
+      * [Fellowship Directions](WEFINDX_IE/wefindx-fellowships.md)
+    * [Open Source Contributor Programme](WEFINDX_IE/open-source-contributor-programme.md)
+* [GLOSSARY](GLOSSARY/TERMS.md)
+  * [Levels of AI-Human Integration](GLOSSARY/levels-of-ai-human-integration.md)
+* [CONTRIBUTING](README.md)

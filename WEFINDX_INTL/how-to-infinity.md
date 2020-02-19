@@ -4,7 +4,7 @@ This document is for versioning of _how to infinity_, using existing software.
 
 ## Introduction
 
-"to infinity" means to apply **the pattern **to run integrated projects, or projects that can easily understood in terms of their position in the hierarchy of the world's needs, and works as ends to those needs.
+"to infinity" means to apply **the pattern **to run integrated projects, or projects that can easily understood in terms of their [position](https://youtu.be/5KNIyoy8QeQ?t=537) in the hierarchy of the world's needs, and works as ends to those needs.
 
 The _**infinity pattern**_ has been described in the videos [\[1\]](https://wefindx.org/static/media/oo.mp4),[\[2\]](https://wefindx.org/static/media/in.mp4) \(i.e., apply the pattern proposed in [\[3\]](https://wefindx.org/static/media/need-to-work-hierarchy.pdf), [\[4\]](https://share.cocalc.com/share/f4cf10f5-140c-45e7-bf19-f3534c8bf022/time-to-work-parity.pdf)\). It was conceived to enable every creator in his or her garage, every half-baker and thinker on a scientific forum, every policy-maker in their government or association, every startup company and laboratory to share and enjoy the exciting projects of humanity, and be able to collaborate regardless of their native language or currency.
 
