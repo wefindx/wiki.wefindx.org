@@ -1,3 +1,3 @@
-# Infrastructure and Management of WeFindX International
+# Infrastructure and Management
+[WeFindX Foundation CLG (WEFINDX_IE)]
 
-Currently, the WeFindX International

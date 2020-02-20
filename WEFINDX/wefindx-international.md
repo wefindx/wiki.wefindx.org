@@ -1,0 +1,22 @@
+# WeFindX International
+
+- **Purpose**
+  - **To Help World Define and Pursue Goals** ([before it's too late](https://wefindx.com/mission/)) and be an organization dedicated for the application of the millenia-tested equation model: [F(X)=Y](https://www.youtube.com/watch?v=e3wpZ7yWUNg) (not a Church of Mathematics).
+- **Methods**
+  - **[Connecting human language with equation model](https://youtu.be/5KNIyoy8QeQ)**.
+  - **[Bringing the world to solve equation together](https://infty.xyz/#/en/@/topic/677)**.
+- **Directions**
+  - **Intelligence**:
+    - __Self-explanatory (transparent) artificial intelligence.__ Topics include:
+      - AGI, existential risks, public data, data standards, etc.
+      - Computing power distribution Transparency
+      - Algorithm properties Transparency
+  - **Cooperation**:
+    - __Universally accessible and secure finance systems.__ Topics include:
+      - company law, employment law, social security, universal basic income,
+      - social impact investment, blockchain, e-government, etc.
+  - **Humanity**:
+    - __Responsible personal sovereignty.__ Topics include:
+      - data rights,
+      - digital identity,
+      - cryptography, etc.

@@ -46,7 +46,7 @@ Apply informally through [t.me/wefindxfellows](https://t.me/wefindxfellows).
 
 ### Contact
 
-[ideas@wefindx.com](mailto:ideas@wefindx.com)
+[hello@wefindx.com](mailto:hello@wefindx.com)
 
 
 

@@ -16,5 +16,5 @@ To download all the topics, comments and transactions to work with locally, you 
 
 ---
 
-Please, contact `ideas@wefindx.com` for special access to the non-public databases. You may need to sign a non-disclosure agreement to do that.
+Please, contact `hello@wefindx.com` for special access to the non-public databases. You may need to sign a non-disclosure agreement to do that.
 
